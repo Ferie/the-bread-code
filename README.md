@@ -15,27 +15,17 @@ recipes are welcome too! Happy baking.
 
 ![A nice and yummy sourdough bread](./images/golden-standard-german-bread-int.jpg)
 
-## Recipes with yeast
+## Yeast based bread
 
-The basic recipe is the source recipe from which the customized recipes inherit.
-I suggest starting baking the standard bread until you master it, and only then move on to further customizations.
+Yeast is the easiest way to get started baking bread. You can use either dry yeast or fresh yeast.
+Yeast ferments your dough by converting parts of the dough into gas. This gas inflates your dough.
 
-* [Basic bread](basics/basic-dough.md)
+* [Basic bread](recipes/savory/basic-bread.md)
+* [French country bread](recipes/savory/french-bread.md)
+* [Banana bread](recipes/sweet/banana-bread.md)
+* [Burger buns](recipes/savory/burger-buns.md)
 
-Custom recipes:
-
-* [Standard bread](recipes/savory/standard-bread.md)
-* [French bread](recipes/savory/french-bread.md)
-* [Date walnut bread](recipes/sweet/date-walnut-bread.md)
-* [Portuguese inspired Broa corn bread](recipes/savory/portuguese-broa-corn-bread.md)
-* [Linseed bread](recipes/savory/linseed-bread.md)
-* [Bacon bread](recipes/savory/bacon-bread.md)
-* [Salami bread](recipes/savory/salami-bread.md)
-* [Saffron Goat Cheese bread](recipes/savory/saffron-goat-cheese.md)
-* [Cocoa bread](recipes/sweet/cocoa-bread.md)
-* [Full milk Chocolate bread](recipes/sweet/full-milk-chocolate-bread.md)
-
-## Recipes with sourdough
+## Sourdough based bread
 
 Sourdough bread is an all natural bread without any added yeast.
 The dough gives the bread an amazing, you guessed it, sour taste.
@@ -57,6 +47,8 @@ Custom Recipes:
 * [Standard sourdough bread](recipes/sourdough/standard-sourdough-bread.md)
 * [Golden standard German bread](recipes/sourdough/golden-standard-german-bread.md)
 * [Bavarian rye bread](recipes/sourdough/bavarian-rye-bread.md)
+* [Portuguese inspired Broa corn bread](recipes/savory/portuguese-broa-corn-bread.md)
+* [Mischbrot aka. Graubrot](recipes/savory/mischbrot-aka-graubrot.md)
 * [Einkorn sourdough bread](recipes/sourdough/einkorn-sourdough-bread.md)
 * [Emmer sourdough bread](recipes/sourdough/emmer-sourdough-bread.md)
 * [The Crack Bread](recipes/sourdough/crack-bread-tomato-water.md)
@@ -117,4 +109,6 @@ around the world to try and become better bakers.
 
 ## Links
 
-Follow us on Instagram: [https://instagram.com/the_bread_code](https://instagram.com/the_bread_code)
+* [YouTube Account](https://www.youtube.com/c/TheBreadCode)
+* [Reddit](https://www.reddit.com/user/the_bread_code)
+* [Instagram](https://instagram.com/the_bread_code)
